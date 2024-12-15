@@ -1,0 +1,4 @@
+pyrogram
+dotenv
+Tgcrypto
+psycopg2-binary
